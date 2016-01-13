@@ -14,7 +14,7 @@ Created by [Ali Asgor](http://asgor.net)
 [Show Image](http://blog.hilandco.com/2010/05/how-to-show-blob-type-column-as-image.html): How to show blob type column as image<br>
 
 ###Plug-In
-[Excel to Collection](https://apex.oracle.com/pls/apex/f?p=33308:1::::::): Upload an Excel file in format XLSX, XLS, XML 2003 or CSV.
+[Excel to Collection](https://apex.oracle.com/pls/apex/f?p=33308:1::::::): Upload an Excel file in format XLSX, XLS, XML 2003 or CSV.<br>
 [How to create a plug-in 4.0](http://www.inside-oracle-apex.com/oracle-apex-4-0-how-to-create-a-plug-in/): Oracle APEX 4.0 - How to create a Plug-in
 
 ###Report
