@@ -26,8 +26,13 @@ Created by [Ali Asgor](http://asgor.net)
 ###jQuery and Ajax
 [Instant row delete](https://apexplained.wordpress.com/2012/02/12/instant-row-deletion-from-report/): Instant row deletation from report
 
+###AnguarJS and APEX
+[Building Angular JS Page](http://www.modernapex.co.uk/building-an-angular-js-page-in-apex/)<br>
+[Implementing a REST API in APEX](http://www.modernapex.co.uk/building-a-todo-app-with-rest/)
+
 ###XML and json
-[Oracle XMLTable](http://viralpatel.net/blogs/oracle-xmltable-tutorial/): Oracle XMLTable Tutorial with Example
+[Oracle XMLTable](http://viralpatel.net/blogs/oracle-xmltable-tutorial/): Oracle XMLTable Tutorial with Example <br>
+[Relational to JSON with ORDS](https://jsao.io/2015/07/relational-to-json-with-ords/): Working with JSON and Oracle REST data service.
 
 ###APEX to Other
 [Send data using post data](http://www.apex-at-work.com/2010/02/send-html-data-with-post-method-from.html): Send HTML data with the POST method from APEX
@@ -42,3 +47,4 @@ Created by [Ali Asgor](http://asgor.net)
 [Apex Ninjas](http://www.apexninjas.com/blog/)<br>
 [Oracle Learning Library](https://apexapps.oracle.com/pls/apex/f?p=44785:1:102968211098702::NO)<br>
 [Eddie Awad's Blog](http://awads.net/wp/)
+[JavaScript and Oracle](https://jsao.io/)
