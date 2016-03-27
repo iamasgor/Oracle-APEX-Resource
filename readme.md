@@ -17,11 +17,12 @@ Created by [Ali Asgor](http://asgor.net)
 [Excel to Collection](https://apex.oracle.com/pls/apex/f?p=33308:1::::::): Upload an Excel file in format XLSX, XLS, XML 2003 or CSV.<br>
 [How to create a plug-in 4.0](http://www.inside-oracle-apex.com/oracle-apex-4-0-how-to-create-a-plug-in/): Oracle APEX 4.0 - How to create a Plug-in
 
-###Report
+###PDF Report
 [Jasper report integration](http://www.opal-consulting.de/apex/f?p=20090928:4:0::NO:::): Jasper report integration with Oracle APEX<br>
 [Print report](http://www.apex-reports.com/apex.html): How to use FO Designer in Oracle Application Express<br>
 [Build a customized report](http://www.codeproject.com/Articles/341528/Build-a-customized-report-using-Oracle-APEX): Build a customized report using Oracle APEX <br>
-[Conditional report formatting](https://tylermuth.wordpress.com/2007/12/01/conditional-column-formatting-in-apex/): Conditional Column Formatting in APEX
+[Conditional report formatting](https://tylermuth.wordpress.com/2007/12/01/conditional-column-formatting-in-apex/): Conditional Column Formatting in APEX<br>
+[Dietmar Aust's blog on Jasper report integration](http://daust.blogspot.com/search/label/JasperReports)
 
 ###jQuery and Ajax
 [Instant row delete](https://apexplained.wordpress.com/2012/02/12/instant-row-deletion-from-report/): Instant row deletation from report
@@ -46,5 +47,5 @@ Created by [Ali Asgor](http://asgor.net)
 [Oracle Application Express](http://oracleapplicationexpress.com/)<br>
 [Apex Ninjas](http://www.apexninjas.com/blog/)<br>
 [Oracle Learning Library](https://apexapps.oracle.com/pls/apex/f?p=44785:1:102968211098702::NO)<br>
-[Eddie Awad's Blog](http://awads.net/wp/)
+[Eddie Awad's Blog](http://awads.net/wp/)<br>
 [JavaScript and Oracle](https://jsao.io/)
