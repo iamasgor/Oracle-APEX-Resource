@@ -12,6 +12,7 @@ Created by [Ali Asgor](http://asgor.net)
 ###Front-end
 [Front-End Framework](https://apexplained.wordpress.com/2013/11/20/front-end-frameworks-in-oracle-apex/): Front-end Frameworks in oracle APEX<br>
 [Show Image](http://blog.hilandco.com/2010/05/how-to-show-blob-type-column-as-image.html): How to show blob type column as image<br>
+[Theme and Template](http://vmorneau.me/): Material APEX, APEX Bootstrap and More..<br>
 
 ###Plug-In
 [Excel to Collection](https://apex.oracle.com/pls/apex/f?p=33308:1::::::): Upload an Excel file in format XLSX, XLS, XML 2003 or CSV.<br>
@@ -48,4 +49,5 @@ Created by [Ali Asgor](http://asgor.net)
 [Apex Ninjas](http://www.apexninjas.com/blog/)<br>
 [Oracle Learning Library](https://apexapps.oracle.com/pls/apex/f?p=44785:1:102968211098702::NO)<br>
 [Eddie Awad's Blog](http://awads.net/wp/)<br>
-[JavaScript and Oracle](https://jsao.io/)
+[JavaScript and Oracle](https://jsao.io/)<br>
+[Vincent Morneau Blog](http://vmorneau.me/)
