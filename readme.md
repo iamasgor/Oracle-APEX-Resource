@@ -4,6 +4,11 @@ All about Oracle APEX. Tutorial, Video, Important website... If you want to add 
 
 Created by [Ali Asgor](http://asgor.net)
 
+###Basic Tutorial
+[Oracle APEX 5.0 Tutorials by Jennifer Kreie](https://www.youtube.com/playlist?list=PL1MJdy9N8XJJDPSibIxQdeXajHb_DXMnD)<br>
+[Create Complete Web Applications easily with APEX 5](https://www.udemy.com/create-web-apps-with-apex-5/)<br>
+[Book Collection On Oracle Apex](https://apex.oracle.com/pls/apex/f?p=411:13)
+
 ###Security
 [Remember me APEX login](http://rokitta.blogspot.de/2012/10/remember-me-apex-autologin.html): Remember Me - APEX Autologin by Christian Rokitta<br>
 [Auto login for APEX demo application](http://www.apex-at-work.com/2016/01/autologin-for-demonstration-applications.html): Autologin for demonstration applications by Tobias Arnhold<br>
