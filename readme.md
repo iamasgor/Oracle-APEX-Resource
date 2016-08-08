@@ -57,4 +57,6 @@ Created by [Ali Asgor](http://asgor.net)
 [Eddie Awad's Blog](http://awads.net/wp/)<br>
 [JavaScript and Oracle](https://jsao.io/)<br>
 [Vincent Morneau Blog](http://vmorneau.me/)<br>
-[Oracle Fusion Middleware, Database and Systems Engineering](http://www.fmwadmin.com/)
+[Oracle Fusion Middleware, Database and Systems Engineering](http://www.fmwadmin.com/)<br>
+[Oracle Blog and Christina Moore](https://storm-petrel.com/orablog/)<br>
+[Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com/)
