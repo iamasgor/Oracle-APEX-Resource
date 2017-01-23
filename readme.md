@@ -46,6 +46,7 @@ Created by [Ali Asgor](http://asgor.net)
 [Send data using post data](http://www.apex-at-work.com/2010/02/send-html-data-with-post-method-from.html): Send HTML data with the POST method from APEX
 
 ###Blog and Website
+[Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com/)<br>
 [All things Oracle](http://allthingsoracle.com/)<br>
 [Jari's APEX blog](http://jaris.blogsite.org/apex/f?p=BLOG:HOME:0)<br>
 [Jeff Kemp on Oracle](http://jeffkemponoracle.com/)<br>
@@ -59,4 +60,4 @@ Created by [Ali Asgor](http://asgor.net)
 [Vincent Morneau Blog](http://vmorneau.me/)<br>
 [Oracle Fusion Middleware, Database and Systems Engineering](http://www.fmwadmin.com/)<br>
 [Oracle Blog and Christina Moore](https://storm-petrel.com/orablog/)<br>
-[Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com/)
+[Geek/into](http://geekinto.com/)<br>
