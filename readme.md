@@ -45,7 +45,7 @@ Created by [Ali Asgor](http://asgor.net)
 ### APEX to Other
 [Send data using post data](http://www.apex-at-work.com/2010/02/send-html-data-with-post-method-from.html): Send HTML data with the POST method from APEX
 
-###Blog and Website
+### Blog and Website
 [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com/)<br>
 [All things Oracle](http://allthingsoracle.com/)<br>
 [Jari's APEX blog](http://jaris.blogsite.org/apex/f?p=BLOG:HOME:0)<br>
@@ -61,3 +61,21 @@ Created by [Ali Asgor](http://asgor.net)
 [Oracle Fusion Middleware, Database and Systems Engineering](http://www.fmwadmin.com/)<br>
 [Oracle Blog and Christina Moore](https://storm-petrel.com/orablog/)<br>
 [Geek/into](http://geekinto.com/)<br>
+
+### Blogs And Websites for Oracle DBAs
+* Oracle Blog: https://blogs.oracle.com/
+* Oracle Developers | Youtube: https://www.youtube.com/user/oracletechnet/videos
+* The Oracle-Base Blog: https://oracle-base.com/blog/
+* Oakie Blog: http://www.oaktable.net/
+* Reddit Oracle: https://www.reddit.com/r/oracle/
+* Oracle Learning Library | Youtube: https://www.youtube.com/user/OracleLearning/videos
+* ThatJeffsmith: http://www.thatjeffsmith.com/
+* Rittman Mead: https://www.rittmanmead.com/blog/
+* MacLochlainns Weblog(+Python): http://blog.mclaughlinsoftware.com/
+* K21 Academy - Oracle Trainings Blog: https://k21academy.com/blog/
+* Oracle Scratchpad - Jonathan Lewis: https://jonathanlewis.wordpress.com/all-postings/
+* Kamran Agayev's Oracle Blog: http://kamranagayev.com/
+* Pete Finnigan's Oracle Security Weblog: http://www.petefinnigan.com/weblog/entries/
+* Oracle Genesis: http://oraclegenesis.com/blog
+* Laurent Schneider – Oracle Certified Master: http://laurentschneider.com/ 
+* Richard Foote's Oracle Blog: https://richardfoote.wordpress.com/
