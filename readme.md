@@ -61,6 +61,7 @@ Created by [Ali Asgor](http://asgor.net)
 [Oracle Fusion Middleware, Database and Systems Engineering](http://www.fmwadmin.com/)<br>
 [Oracle Blog and Christina Moore](https://storm-petrel.com/orablog/)<br>
 [Geek/into](http://geekinto.com/)<br>
+["Oracle SQL und PL/SQL" von Carsten Czarski](https://sql-plsql-de.blogspot.com/)<br>
 
 ### Blogs And Websites for Oracle DBAs
 * Oracle Blog: https://blogs.oracle.com/
