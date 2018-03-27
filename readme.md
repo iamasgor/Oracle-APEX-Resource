@@ -80,3 +80,4 @@ Created by [Ali Asgor](http://asgor.net)
 * Oracle Genesis: http://oraclegenesis.com/blog
 * Laurent Schneider – Oracle Certified Master: http://laurentschneider.com/ 
 * Richard Foote's Oracle Blog: https://richardfoote.wordpress.com/
+* A Blog About APEX Development: http://menn.ooo/
