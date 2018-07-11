@@ -62,6 +62,9 @@ Created by [Ali Asgor](http://asgor.net)
 [Oracle Blog and Christina Moore](https://storm-petrel.com/orablog/)<br>
 [Geek/into](http://geekinto.com/)<br>
 ["Oracle SQL und PL/SQL" von Carsten Czarski](https://sql-plsql-de.blogspot.com/)<br>
+[Christoph's 2 Cents](https://ruepprich.com/)<br>
+[SELECT BLOG FROM DUAL](http://dsavenko.me/)<br>
+[A Blog About APEX Development](http://menn.ooo/)<br>
 
 ### Blogs And Websites for Oracle DBAs
 * Oracle Blog: https://blogs.oracle.com/
@@ -80,4 +83,3 @@ Created by [Ali Asgor](http://asgor.net)
 * Oracle Genesis: http://oraclegenesis.com/blog
 * Laurent Schneider – Oracle Certified Master: http://laurentschneider.com/ 
 * Richard Foote's Oracle Blog: https://richardfoote.wordpress.com/
-* A Blog About APEX Development: http://menn.ooo/
