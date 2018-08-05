@@ -65,6 +65,7 @@ Created by [Ali Asgor](http://asgor.net)
 [Christoph's 2 Cents](https://ruepprich.com/)<br>
 [SELECT BLOG FROM DUAL](http://dsavenko.me/)<br>
 [A Blog About APEX Development](http://menn.ooo/)<br>
+[APEXUTIL](https://apexutil.blogspot.com)<br>
 
 ### Blogs And Websites for Oracle DBAs
 * Oracle Blog: https://blogs.oracle.com/
