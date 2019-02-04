@@ -4,6 +4,10 @@ All about Oracle APEX. Tutorial, Video, Important website... If you want to add 
 
 Created by [Ali Asgor](http://asgor.net)
 
+### Table of Contents
+**[Basic Tutorial](#basic-tutorial)**<br>
+**[Security](#security)**<br>
+
 ### Basic Tutorial
 [Oracle APEX 5.0 Tutorials by Jennifer Kreie](https://www.youtube.com/playlist?list=PL1MJdy9N8XJJDPSibIxQdeXajHb_DXMnD)<br>
 [Create Complete Web Applications easily with APEX 5](https://www.udemy.com/create-web-apps-with-apex-5/)<br>
@@ -13,6 +17,21 @@ Created by [Ali Asgor](http://asgor.net)
 [Remember me APEX login](http://rokitta.blogspot.de/2012/10/remember-me-apex-autologin.html): Remember Me - APEX Autologin by Christian Rokitta<br>
 [Auto login for APEX demo application](http://www.apex-at-work.com/2016/01/autologin-for-demonstration-applications.html): Autologin for demonstration applications by Tobias Arnhold<br>
 [Preventing SQL injection](http://dickdral.blogspot.com/2015/08/preventing-sql-injection-without-using.html)
+
+### ORDS
+[Latest and Greatest Slides & Video](https://www.thatjeffsmith.com/archive/2018/09/updated-oracle-rest-data-services-ords-slides-and-video)<br>
+[Install and Configure ORDS from SQL Developer](http://www.thatjeffsmith.com/archive/2015/04/deploying-oracle-rest-data-services-from-oracle-sql-developer)<br>
+[Creating an ORDS User](http://www.thatjeffsmith.com/archive/2016/10/creating-an-oracle-rest-data-services-user-with-the-sql-developer-role)<br>
+[Developing a RESTful Service with SQL Developer's IDE (Video)](https://www.thatjeffsmith.com/archive/2017/05/developing-oracle-rest-data-services-with-sql-developer-4-2)<br>
+[Securing All Services in a Schema with a Privilege](https://www.thatjeffsmith.com/archive/2018/10/ords-the-easy-way-to-protect-all-services-for-a-rest-enabled-schema/)<br>
+[Route Parameters OR Query Strings](http://www.thatjeffsmith.com/archive/2017/03/a-tale-of-two-styles-of-uris-and-parameters-words/)<br>
+[Automatic REST: Overview/Slides/Oracle Magazine](https://www.thatjeffsmith.com/archive/2017/03/auto-rest-with-ords-an-overview-and-whats-next/)<br>
+[Auto REST In Depth: Insert Record(s) with POST](http://www.thatjeffsmith.com/archive/2016/11/rest-enabling-your-tables-insert-rows-via-post/)<br>
+[Auto REST In Depth: Batch Load CSV with POST](https://www.thatjeffsmith.com/archive/2017/09/bulk-load-an-oracle-table-from-csv-via-rest/)<br>
+[GET BLOBs and Media Types](http://www.thatjeffsmith.com/archive/2017/01/working-with-restful-services-blobs-and-media-types/)<br>
+[POST BLOBs - Uploading Files via REST using the :body Bind Variable](https://www.thatjeffsmith.com/archive/2017/09/post-up-a-blob-to-an-oracle-table-via-rest/)<br>
+[Parameters and :binds](http://www.thatjeffsmith.com/archive/2017/03/parameters-and-binds-for-your-restful-services/)<br>
+[Generating Links in your JSON responses using $ notation](https://www.thatjeffsmith.com/archive/2017/05/ords-restful-services-and-uri/)<br>
 
 ### Front-end
 [Front-End Framework](https://apexplained.wordpress.com/2013/11/20/front-end-frameworks-in-oracle-apex/): Front-end Frameworks in oracle APEX<br>
