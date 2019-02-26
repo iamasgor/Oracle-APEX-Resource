@@ -6,12 +6,29 @@ Created by [Ali Asgor](http://asgor.net)
 
 ### Table of Contents
 **[Basic Tutorial](#basic-tutorial)**<br>
+**[Install and Configuration](#install-and-configuration)**<br>
 **[Security](#security)**<br>
+**[ORDS](#ords)**<br>
+**[Front-end](#front-end)**<br>
+**[Plug-In](#plug-in)**<br>
+**[PDF Report](#pdf-report)**<br>
+**[jQuery and Ajax](#jquery-and-ajax)**<br>
+**[AnguarJS and APEX](#anguarjs-and-apex)**<br>
+**[XML and json](#xml-and-json)**<br>
+**[Blog and Website](#blog-and-website)**<br>
+**[Blogs And Websites for Oracle DBAs](#blogs-and-websites-for-oracle-dbas)**<br>
 
 ### Basic Tutorial
 [Oracle APEX 5.0 Tutorials by Jennifer Kreie](https://www.youtube.com/playlist?list=PL1MJdy9N8XJJDPSibIxQdeXajHb_DXMnD)<br>
 [Create Complete Web Applications easily with APEX 5](https://www.udemy.com/create-web-apps-with-apex-5/)<br>
 [Book Collection On Oracle Apex](https://apex.oracle.com/pls/apex/f?p=411:13)
+
+### Install and Configuration
+[Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - introduction](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-introduction/)<br>
+[Part 1. CentOS installation and its configuration for APEX](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-one)<br>
+[Part 2. Installation of Oracle Database, ORDS and APEX itself](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-two)<br>
+[Part 3. Additional configuration (optional)](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-three)<br>
+[Part 4. Setting up SSL, redundancy and backups (optional)](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-four)
 
 ### Security
 [Remember me APEX login](http://rokitta.blogspot.de/2012/10/remember-me-apex-autologin.html): Remember Me - APEX Autologin by Christian Rokitta<br>
@@ -41,7 +58,8 @@ Created by [Ali Asgor](http://asgor.net)
 
 ### Plug-In
 [Excel to Collection](https://apex.oracle.com/pls/apex/f?p=33308:1::::::): Upload an Excel file in format XLSX, XLS, XML 2003 or CSV.<br>
-[How to create a plug-in 4.0](http://www.inside-oracle-apex.com/oracle-apex-4-0-how-to-create-a-plug-in/): Oracle APEX 4.0 - How to create a Plug-in
+[How to create a plug-in 4.0](http://www.inside-oracle-apex.com/oracle-apex-4-0-how-to-create-a-plug-in/): Oracle APEX 4.0 - How to create a Plug-in<br>
+[APEX Plugins for Beginners](https://explorer.co.uk/apex-plugins-for-beginners/)
 
 ### PDF Report
 [Jasper report integration](http://www.opal-consulting.de/apex/f?p=20090928:4:0::NO:::): Jasper report integration with Oracle APEX<br>
