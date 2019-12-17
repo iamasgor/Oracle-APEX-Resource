@@ -24,6 +24,8 @@ Created by [Ali Asgor](http://asgor.net)
 [Book Collection On Oracle Apex](https://apex.oracle.com/pls/apex/f?p=411:13)
 
 ### Install and Configuration
+[APEX and ORDS up and running in....2 steps!](https://joelkallman.blogspot.com/2017/05/apex-and-ords-up-and-running-in2-steps.html)<br>
+[Create Oracle APEX Environment in the Amazon Cloud with RDS](https://thecattlecrew.net/2019/06/06/create-oracle-apex-environment-in-the-amazon-cloud-with-rds:-part-1---overview/)<br>
 [Oracle Database XE, APEX, ORDS, Tomcat and httpd on CentOS 7: all-in-one guide - introduction](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-introduction/)<br>
 [Part 1. CentOS installation and its configuration for APEX](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-one)<br>
 [Part 2. Installation of Oracle Database, ORDS and APEX itself](https://dsavenko.me/oracledb-apex-ords-tomcat-httpd-centos7-all-in-one-guide-part-two)<br>
