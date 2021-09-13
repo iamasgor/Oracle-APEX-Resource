@@ -9,6 +9,7 @@ Created by [Ali Asgor](http://asgor.net)
 **[Install and Configuration](#install-and-configuration)**<br>
 **[Security](#security)**<br>
 **[ORDS](#ords)**<br>
+**[ORDS Security](#ords-security)**<br>
 **[Front-end](#front-end)**<br>
 **[Plug-In](#plug-in)**<br>
 **[PDF Report](#pdf-report)**<br>
@@ -51,6 +52,10 @@ Created by [Ali Asgor](http://asgor.net)
 [POST BLOBs - Uploading Files via REST using the :body Bind Variable](https://www.thatjeffsmith.com/archive/2017/09/post-up-a-blob-to-an-oracle-table-via-rest/)<br>
 [Parameters and :binds](http://www.thatjeffsmith.com/archive/2017/03/parameters-and-binds-for-your-restful-services/)<br>
 [Generating Links in your JSON responses using $ notation](https://www.thatjeffsmith.com/archive/2017/05/ords-restful-services-and-uri/)<br>
+
+### ORDS Security
+[ORDS, APEX and secure REST APIs (Part 1 – secure the API)](https://apexapplab.dev/2021/09/06/ords-apex-and-secure-rest-apis-part-1/)<br>
+[ORDS, APEX and secure REST APIs (Part 2 – call the API)](https://apexapplab.dev/2021/09/07/ords-apex-and-secure-rest-apis-part-2-call-the-api/)<br>
 
 ### Front-end
 [Front-End Framework](https://apexplained.wordpress.com/2013/11/20/front-end-frameworks-in-oracle-apex/): Front-end Frameworks in oracle APEX<br>
