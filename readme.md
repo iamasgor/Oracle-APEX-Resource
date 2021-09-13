@@ -43,7 +43,6 @@ Created by [Ali Asgor](http://asgor.net)
 [Install and Configure ORDS from SQL Developer](http://www.thatjeffsmith.com/archive/2015/04/deploying-oracle-rest-data-services-from-oracle-sql-developer)<br>
 [Creating an ORDS User](http://www.thatjeffsmith.com/archive/2016/10/creating-an-oracle-rest-data-services-user-with-the-sql-developer-role)<br>
 [Developing a RESTful Service with SQL Developer's IDE (Video)](https://www.thatjeffsmith.com/archive/2017/05/developing-oracle-rest-data-services-with-sql-developer-4-2)<br>
-[Securing All Services in a Schema with a Privilege](https://www.thatjeffsmith.com/archive/2018/10/ords-the-easy-way-to-protect-all-services-for-a-rest-enabled-schema/)<br>
 [Route Parameters OR Query Strings](http://www.thatjeffsmith.com/archive/2017/03/a-tale-of-two-styles-of-uris-and-parameters-words/)<br>
 [Automatic REST: Overview/Slides/Oracle Magazine](https://www.thatjeffsmith.com/archive/2017/03/auto-rest-with-ords-an-overview-and-whats-next/)<br>
 [Auto REST In Depth: Insert Record(s) with POST](http://www.thatjeffsmith.com/archive/2016/11/rest-enabling-your-tables-insert-rows-via-post/)<br>
@@ -54,6 +53,7 @@ Created by [Ali Asgor](http://asgor.net)
 [Generating Links in your JSON responses using $ notation](https://www.thatjeffsmith.com/archive/2017/05/ords-restful-services-and-uri/)<br>
 
 ### ORDS Security
+[Securing All Services in a Schema with a Privilege](https://www.thatjeffsmith.com/archive/2018/10/ords-the-easy-way-to-protect-all-services-for-a-rest-enabled-schema/)<br>
 [ORDS, APEX and secure REST APIs (Part 1 – secure the API)](https://apexapplab.dev/2021/09/06/ords-apex-and-secure-rest-apis-part-1/)<br>
 [ORDS, APEX and secure REST APIs (Part 2 – call the API)](https://apexapplab.dev/2021/09/07/ords-apex-and-secure-rest-apis-part-2-call-the-api/)<br>
 
