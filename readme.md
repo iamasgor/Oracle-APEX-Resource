@@ -91,6 +91,7 @@ Created by [Ali Asgor](http://asgor.net)
 
 ### Blog and Website
 [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com/)<br>
+[Dimitri Gielis Blog](https://dgielis.blogspot.com/)<br>
 [All things Oracle](http://allthingsoracle.com/)<br>
 [Jari's APEX blog](http://jaris.blogsite.org/apex/f?p=BLOG:HOME:0)<br>
 [Jeff Kemp on Oracle](http://jeffkemponoracle.com/)<br>
