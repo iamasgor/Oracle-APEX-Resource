@@ -13,6 +13,7 @@ Created by [Ali Asgor](http://asgor.net)
 **[Front-end](#front-end)**<br>
 **[Plug-In](#plug-in)**<br>
 **[PDF Report](#pdf-report)**<br>
+**[Mobile Friendly App](#mobile-friendly-app)**<br>
 **[jQuery and Ajax](#jquery-and-ajax)**<br>
 **[AnguarJS and APEX](#anguarjs-and-apex)**<br>
 **[XML and json](#xml-and-json)**<br>
@@ -74,6 +75,12 @@ Created by [Ali Asgor](http://asgor.net)
 [Build a customized report](http://www.codeproject.com/Articles/341528/Build-a-customized-report-using-Oracle-APEX): Build a customized report using Oracle APEX <br>
 [Conditional report formatting](https://tylermuth.wordpress.com/2007/12/01/conditional-column-formatting-in-apex/): Conditional Column Formatting in APEX<br>
 [Dietmar Aust's blog on Jasper report integration](http://daust.blogspot.com/search/label/JasperReports)
+
+### Mobile Friendly App
+[How to make your mobile APEX application look like a native one - Part 1](https://lmoreaux.hashnode.dev/how-to-make-your-mobile-apex-application-look-like-a-native-one-part-1)<br>
+[How to make your mobile APEX application look like a native one - Part 2](https://lmoreaux.hashnode.dev/how-to-make-your-mobile-apex-application-look-like-a-native-one-part-2)<br>
+[How to make your mobile APEX application look like a native one - Part 3](https://lmoreaux.hashnode.dev/how-to-make-your-mobile-apex-application-look-like-a-native-one-part-3)<br>
+[Build a Social Media App in 60 Minutes Using Low Code](https://thenewstack.io/build-a-social-media-app-in-60-minutes-using-low-code/)
 
 ### jQuery and Ajax
 [Instant row delete](https://apexplained.wordpress.com/2012/02/12/instant-row-deletion-from-report/): Instant row deletation from report
